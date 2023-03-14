@@ -7,6 +7,7 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [first, post]
 ---
+![thumb](/assets/img/thumb.png)
 
 안녕하세요
 첫 포스트 입니다.
