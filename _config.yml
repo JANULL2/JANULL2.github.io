@@ -23,6 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Instargram: "https://www.instagram.com/hanula_03/"
+    - Facebook: "https://www.facebook.com/profile.php?id=100029280182175"
 
 ################
 # --- Logo --- #
@@ -48,7 +49,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "jihanul03@gmail.com"
-  facebook: 지한울
+  facebook: "https://www.facebook.com/profile.php?id=100029280182175"
   github: JANULL2
 #  medium: yourname
 #  reddit: yourname
@@ -241,7 +242,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Korea/Seoul"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
